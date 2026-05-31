@@ -6,7 +6,7 @@ sudo pip3 install -U pip
 
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash && source ~/.bashrc && nvm install v18
 
-git clone https://github.com/TeamAloneOp/AloneX && cd AloneX
+git clone https://github.com/atulpatel99357-ai/ALONE-PATEL-MUSIC-BOT.git && cd AloneX
 
 pip3 install -U -r requirements.txt
 

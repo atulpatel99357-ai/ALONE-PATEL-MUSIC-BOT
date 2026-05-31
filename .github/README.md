@@ -1,23 +1,23 @@
 
 <h2 align="center">
-    𖢵 ᴀʅσηҽ χ мυѕι¢ 𖢵
+    𖢵 ᴀʅσηҽ ραтєℓ χ мυѕι¢ 𖢵
 
 ★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 </h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+𝙰𝙻𝙾𝙽𝙴+𝙼𝚄𝚂𝙸𝙲+𝚁𝙴𝙿𝙾+;ㅤ+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+𝙼𝚄𝚂𝙸𝙲+𝙱𝙾𝚃;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+𝗧𝗛𝗘+𝗧𝗘𝗔𝗠+𝗔𝗟𝗢𝗡𝗘)](https://github.com/TeamAloneOp)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+𝙰𝙻𝙾𝙽𝙴+𝙼𝚄𝚂𝙸𝙲+𝚁𝙴𝙿𝙾+;ㅤ+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+𝙼𝚄𝚂𝙸𝙲+𝙱𝙾𝚃;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+𝗧𝗛𝗘+𝗧𝗘𝗔𝗠+𝗔𝗟𝗢𝗡𝗘 𝙋𝘼𝙏𝙀𝙇)](https://github.com/atulpatel99357-ai/ALONE-PATEL-MUSIC-BOT.git)
 
 
 <b>Telegram Group Calls Streaming Bot</b><br>
 Supports YouTube, Spotify, Resso, Apple Music, SoundCloud and M3U8 links.
 
-<a href="https://github.com/TeamAloneOp/AloneX/stargazers">
+<a href="https://github.com/atulpatel99357-ai/ALONE-PATEL-MUSIC-BOT.git/stargazers">
     <img src="https://img.shields.io/github/stars/TeamAloneOp/AloneX?color=blueviolet&logo=github&logoColor=black&style=for-the-badge" alt="Stars"/>
 </a>
-<a href="https://github.com/TeamAloneOp/AloneX/network/members">
+<a href="https://github.com/atulpatel99357-ai/ALONE-PATEL-MUSIC-BOT.git/network/members">
     <img src="https://img.shields.io/github/forks/TeamAloneOp/AloneX?color=blueviolet&logo=github&logoColor=black&style=for-the-badge" alt="Forks"/>
 </a>
-<a href="https://github.com/TeamAloneOp/AloneX/blob/master/LICENSE">
+<a href="https://github.com/atulpatel99357-ai/ALONE-PATEL-MUSIC-BOT.git/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License"/>
 </a>
 <a href="https://www.python.org/">
@@ -60,12 +60,12 @@ Built with Python, Pyrogram, and Py-TgCalls, it’s optimized for reliability an
 <h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>
 </h3>
 
-[![Deploy To Heroku](https://graph.org/file/826b0a2fc82db8328a113.png)](https://dashboard.heroku.com/new?template=https://github.com/TeamAloneOp/AloneX)
+[![Deploy To Heroku](https://graph.org/file/826b0a2fc82db8328a113.png)](https://dashboard.heroku.com/new?template=https://github.com/atulpatel99357-ai/ALONE-PATEL-MUSIC-BOT.git)
 
 <h2 align="center">
 
 🔴「 𝗜𝗙 𝗔𝗡𝗬 𝗘𝗥𝗥𝗢𝗥 𝗧𝗛𝗘𝗡 𝗦𝗘𝗡𝗗 𝗦𝗦 𝗧𝗢 𝗗𝗠 」🔴
-[![ALONE](https://te.legra.ph/file/fa42213a5129d4a26dd3d.jpg)](https://t.me/ForRealAlone)
+[![ALONE](https://te.legra.ph/file/fa42213a5129d4a26dd3d.jpg)](https://t.me/ALONE_PATEL)
 </p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
@@ -92,7 +92,7 @@ Built with Python, Pyrogram, and Py-TgCalls, it’s optimized for reliability an
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/TeamAloneOp/AloneX && cd AloneX
+   git clone https://github.com/atulpatel99357-ai/ALONE-PATEL-MUSIC-BOT.git && cd AloneX
    ```
 6. **Install Requirements**
    ```bash
@@ -119,10 +119,14 @@ Built with Python, Pyrogram, and Py-TgCalls, it’s optimized for reliability an
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/AloneBotSupport"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/+jY4N29HHCT5kMTE1"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/AloneUpdates"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/+CbL1LsEV_Xg0OTQ8"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
+
+<p align="center">
+<a href="https://t.me/PatelGxCheat"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
